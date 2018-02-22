@@ -1,0 +1,41 @@
+
+
+
+.corpo{
+    display:flex;
+    background: white;
+    
+}
+
+.subnavbar {
+    display: flex;
+    width: 80%;
+    max-width: 1000px;
+    height: 20%;
+    background-color: white;
+
+}
+
+.navbar{
+
+    justify-content: flex-end;
+    list-style-type: none;
+    width: 50%;
+
+    
+}
+
+.teste{
+    display: space-between;
+    list-style-type: none;
+} 
+
+
+
+.boxContent{
+    width: 80%;
+    max-width: 1000px;
+    background-color: darkviolet;
+    height: 60%;
+}
+
